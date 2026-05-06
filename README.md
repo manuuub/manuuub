@@ -5,20 +5,25 @@
   ---
 
   ## Disciplinas Cursadas:
-  -Lógica de Programação e Algoritimos;
-  -Arquitetura de Redes com IoT;
-  -Sistemas Operacionais;
-  -Levantamento de Requisitos.
+  - Lógica de Programação e Algoritimos;
+  
+  - Arquitetura de Redes com IoT;
+  
+  - Sistemas Operacionais;
+  
+  - Levantamento de Requisitos.
 
   ---
 
   ## Linguagens Estudadas:
-  -🐍Python
-  -⌨️C++.
+  - 🐍Python
+  
+  - ⌨️C++.
 
   ---
 
   ## Meu sonho é:
 
-  -👩🏼‍🎓Me formar em fisioterapia
-  -Conhecer varios paises 
+  - 👩🏼‍🎓Me formar em fisioterapia
+  
+  - Conhecer varios paises 
