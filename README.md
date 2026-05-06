@@ -1,29 +1,29 @@
-## Olá, meu nome é Manuela Buriti!
+## 🙋🏼‍♀️Olá, meu nome é Manuela Buriti!
 
 - 👩‍💻 Atualmente sou estudante do curso Técnico em desenvolvimento de Sistemas no SENAI
 
   ---
 
-  ## Disciplinas Cursadas:
-  - Lógica de Programação e Algoritimos;
+  ## 📘Disciplinas Cursadas:
+  - ⌨️Lógica de Programação e Algoritimos;
   
-  - Arquitetura de Redes com IoT;
+  - 🛜Arquitetura de Redes com IoT;
   
-  - Sistemas Operacionais;
+  - 💻Sistemas Operacionais;
   
-  - Levantamento de Requisitos.
+  - 📈Levantamento de Requisitos.
 
   ---
 
-  ## Linguagens Estudadas:
+  ## 🖥️Linguagens Estudadas:
   - 🐍Python
   
   - ⌨️C++.
 
   ---
 
-  ## Meu sonho é:
+  ## 💕Meu sonho é:
 
   - 👩🏼‍🎓Me formar em fisioterapia
   
-  - Conhecer varios paises 
+  - 🗺️Conhecer varios paises 
